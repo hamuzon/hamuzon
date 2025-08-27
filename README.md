@@ -1,16 +1,25 @@
-## Hi there 👋
+# 👋 @hamuzon について / About @hamuzon
 
-<!--
-**hamuzon/hamuzon** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+💻 プログラミング言語を勉強中のネットの海の一人  
+💻 A lone coder navigating the vast sea of the internet, currently learning programming languages  
 
-Here are some ideas to get you started:
+🌱 一部の作品は **AI コーディング** を活用  
+🌱 Some projects involve **AI-assisted coding**  
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+🔹 以前の `@hamusata` アカウントは削除しました。今は `@hamuzon` を使用しています  
+🔹 I deleted my previous GitHub account `@hamusata` and now use `@hamuzon`  
+
+---
+
+## 🌐 ホームページ / Homepage
+
+- 作品一覧や個人サイトはこちら  
+- Works showcase and personal site:
+
+- [hamusata.f5.si](https://hamusata.f5.si)  
+- [home.hamusata.f5.si](https://home.hamusata.f5.si)
+  
+---
+
+⚡ 自分のペースで学び、色々試しています  
+⚡ Learning at my own pace and experimenting with various things
