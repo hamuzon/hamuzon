@@ -27,3 +27,9 @@
 ---
 
 # [Hello World](https://hamuzon.github.io/hamuzon/)
+
+---
+
+![hamusata (hamuzon) icon](https://hamusata.f5.si/icon_500_500.png)
+
+---
