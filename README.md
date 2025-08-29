@@ -23,3 +23,7 @@
 
 ⚡ 自分のペースで学び、色々試しています  
 ⚡ Learning at my own pace and experimenting with various things
+
+---
+
+#[Hello World](https://hamuzon.github.io/hamuzon/)
