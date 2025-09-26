@@ -1,12 +1,6 @@
 <div align="center">
-  <a href="../README.md">
-    日本語
-  </a>
-  ・
-  <a href="en.md">
-    English
-  </a>
-</div>
+
+  <a href="../README.md">日本語</a> ・ <a href="en.md">English</a>
 
 # 👋 @hamuzon について
 
@@ -20,7 +14,7 @@
 
 ## 🌐 ホームページ
 
-- 作品一覧や個人サイトはこちら:
+作品一覧や個人サイトはこちら:
 
 - [hamusata.f5.si](https://hamusata.f5.si)  
 - [home.hamusata.f5.si](https://home.hamusata.f5.si)
@@ -36,3 +30,5 @@
 ---
 
 ![hamusata (hamuzon) icon](https://hamusata.f5.si/icon_500_500.png)
+
+</div>
