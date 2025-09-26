@@ -1,12 +1,6 @@
 <div align="center">
-  <a href="ja.md">
-    日本語
-  </a>
-  ・
-  <a href="../README.md">
-    English
-  </a>
-</div>
+
+  <a href="ja.md">日本語</a> ・ <a href="../README.md">English</a>
 
 # 👋 About @hamuzon
 
@@ -20,7 +14,7 @@
 
 ## 🌐 Homepage
 
-- Works showcase and personal site:
+Works showcase and personal site:
 
 - [hamusata.f5.si](https://hamusata.f5.si)  
 - [home.hamusata.f5.si](https://home.hamusata.f5.si)
@@ -36,3 +30,5 @@
 ---
 
 ![hamusata (hamuzon) icon](https://hamusata.f5.si/icon_500_500.png)
+
+</div>
