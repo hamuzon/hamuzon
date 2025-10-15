@@ -38,8 +38,6 @@ Works showcase and personal site:
 
 ---
 
-## 🚀 プロジェクト / Projects
-
-- [Hello World](https://hamuzon.github.io/hamuzon/)
+## [Hello World](https://hamuzon.github.io/hamuzon/)
 
 </div>
