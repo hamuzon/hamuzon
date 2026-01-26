@@ -8,17 +8,18 @@
 
 🌱 一部の作品は **AI コーディング** を活用  
 
-🔹 以前の `@hamusata` アカウントは削除しました。今は `@hamuzon` を使用しています  
+🔹 以前の `@hamusata` アカウントは削除しました  
+🔹 現在は `@hamuzon` を使用しています  
 
 ---
 
 ## 🌐 ホームページ
 
-作品一覧や個人サイトはこちら:
+作品一覧や個人サイトはこちら：
 
 - [hamusata.f5.si](https://hamusata.f5.si)  
 - [home.hamusata.f5.si](https://home.hamusata.f5.si)
-  
+
 ---
 
 ⚡ 自分のペースで学び、色々試しています  
