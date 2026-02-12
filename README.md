@@ -2,7 +2,7 @@
 
 # 👋 @hamuzon について / About @hamuzon
 
-![hamusata (hamuzon) icon](https://hamusata.f5.si/icon_120.webp)
+![hamusata (hamuzon) icon](https://hamuzon.github.io/hamuzon/favicon.ico)
 
 ---
 
