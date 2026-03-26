@@ -49,4 +49,3 @@ issue 送られても対応ほぼしません
 Even if an issue is sent, it will not be handled
 
 ---
--# test
