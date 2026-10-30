@@ -1,40 +1,73 @@
 <!DOCTYPE html>
 <html lang="ja">
-<head>
-<meta charset="UTF-8">
-<meta name="viewport" content="width=device-width, initial-scale=1.0">
-<title>Hello World</title>
-<style>
-body {
-  margin: 0;
-  height: 100vh;
-  display: flex;
-  justify-content: center;
-  align-items: center;
-  font-family: 'Potta One', cursive;
-  background: linear-gradient(135deg, #a8edea, #fed6e3, #fbc2eb, #a6c1ee);
-  background-size: 400% 400%;
-  animation: gradientBG 20s ease infinite;
-}
-@keyframes gradientBG {
-  0% {background-position: 0% 50%;}
-  50% {background-position: 100% 50%;}
-  100% {background-position: 0% 50%;}
-}
-h1 {
-  font-size: 4rem;
-  color: #ffffffcc;
-  text-shadow: 0 4px 20px rgba(0,0,0,0.2);
-  animation: float 3s ease-in-out infinite;
-}
-@keyframes float {
-  0%, 100% { transform: translateY(0); }
-  50% { transform: translateY(-20px); }
-}
-</style>
-<link href="https://fonts.googleapis.com/css2?family=Potta+One&display=swap" rel="stylesheet">
-</head>
-<body>
-<h1>Hello World</h1>
-</body>
+  <head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Hello World</title>
+    <link
+      href="https://fonts.googleapis.com/css2?family=Potta+One&display=swap"
+      rel="stylesheet"
+    >
+    <style>
+      body {
+        margin: 0;
+        height: 100vh;
+        display: flex;
+        justify-content: center;
+        align-items: center;
+        font-family: 'Potta One', cursive;
+        background:
+          radial-gradient(ellipse 80% 60% at 70% 20%, rgba(175, 109, 255, 0.85), transparent 68%),
+          radial-gradient(ellipse 70% 60% at 20% 80%, rgba(255, 100, 180, 0.75), transparent 68%),
+          radial-gradient(ellipse 60% 50% at 60% 65%, rgba(255, 235, 170, 0.98), transparent 68%),
+          radial-gradient(ellipse 65% 40% at 50% 60%, rgba(120, 190, 255, 0.3), transparent 68%),
+          linear-gradient(180deg, #f7eaff 0%, #fde2ea 100%);
+        background-size: 180% 180%;
+        animation: gradientBG 20s ease infinite;
+      }
+
+      @keyframes gradientBG {
+        0% {
+          background-position: 0% 50%;
+        }
+
+        50% {
+          background-position: 100% 50%;
+        }
+
+        100% {
+          background-position: 0% 50%;
+        }
+      }
+
+      h1 {
+        font-size: 4rem;
+        color: #160b24;
+        padding: 0.3em 0.65em;
+        border: 1px solid rgba(255, 255, 255, 0.72);
+        border-radius: 32px;
+        background: rgba(255, 255, 255, 0.62);
+        box-shadow:
+          0 8px 32px rgba(49, 28, 72, 0.16),
+          inset 0 1px 0 rgba(255, 255, 255, 0.8);
+        backdrop-filter: blur(18px) saturate(1.35);
+        -webkit-backdrop-filter: blur(18px) saturate(1.35);
+        animation: float 3s ease-in-out infinite;
+      }
+
+      @keyframes float {
+        0%,
+        100% {
+          transform: translateY(0);
+        }
+
+        50% {
+          transform: translateY(-20px);
+        }
+      }
+    </style>
+  </head>
+  <body>
+    <h1>Hello World</h1>
+  </body>
 </html>
