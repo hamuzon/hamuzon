@@ -3,3 +3,4 @@
 ![](https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=hamuzon&theme=github_dark)
 ![](https://github-profile-summary-cards.vercel.app/api/cards/stats?username=hamuzon&theme=github_dark)
 ![](https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=hamuzon&theme=github_dark&timeZone=Asia%2FTokyo)
+[![My Skills](https://skillicons.dev/icons?i=html,css,js,ts,py,react,vue,nextjs,nodejs,cloudflare,git,docker,ubuntu,vscode)](https://skillicons.dev)
