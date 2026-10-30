@@ -32,17 +32,6 @@
 
 [![My Skills](https://skillicons.dev/icons?i=html,css,js,ts,py,react,vue,nextjs,nodejs,cloudflare,git,docker,ubuntu,vscode)](https://skillicons.dev)
 
----
-
-## 📊 GitHub Stats
-
-![Profile Details](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=hamuzon&theme=github_dark)
-
-![](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=hamuzon&theme=github_dark)
-![](https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=hamuzon&theme=github_dark)
-![](https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=hamuzon&theme=github_dark)
-![](https://github-profile-summary-cards.vercel.app/api/cards/stats?username=hamuzon&theme=github_dark)
-![](https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=hamuzon&theme=github_dark&timeZone=Asia%2FTokyo)
 
 ---
 
@@ -62,6 +51,19 @@ Works showcase and personal site:
 </div>
 
 ---
+
+---
+
+## 📊 GitHub Stats
+
+![Profile Details](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=hamuzon&theme=github_dark)
+
+![](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=hamuzon&theme=github_dark)
+![](https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=hamuzon&theme=github_dark)
+![](https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=hamuzon&theme=github_dark)
+![](https://github-profile-summary-cards.vercel.app/api/cards/stats?username=hamuzon&theme=github_dark)
+![](https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=hamuzon&theme=github_dark&timeZone=Asia%2FTokyo)
+
 
 issue 送られても対応ほぼしません  
 Even if an issue is sent, it will not be handled
