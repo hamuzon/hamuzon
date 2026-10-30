@@ -38,12 +38,10 @@
 
 ![Profile Details](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=hamuzon&theme=github_dark)
 
+![](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=hamuzon&theme=github_dark)
 ![](https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=hamuzon&theme=github_dark)
-
 ![](https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=hamuzon&theme=github_dark)
-
 ![](https://github-profile-summary-cards.vercel.app/api/cards/stats?username=hamuzon&theme=github_dark)
-
 ![](https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=hamuzon&theme=github_dark&timeZone=Asia%2FTokyo)
 
 ---
