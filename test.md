@@ -52,6 +52,9 @@ Works showcase and personal site:
 
 ---
 
+
+issue 送られても対応ほぼしません  
+Even if an issue is sent, it will not be handled
 ---
 
 ## 📊 GitHub Stats
@@ -64,6 +67,3 @@ Works showcase and personal site:
 ![](https://github-profile-summary-cards.vercel.app/api/cards/stats?username=hamuzon&theme=github_dark)
 ![](https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=hamuzon&theme=github_dark&timeZone=Asia%2FTokyo)
 
-
-issue 送られても対応ほぼしません  
-Even if an issue is sent, it will not be handled
